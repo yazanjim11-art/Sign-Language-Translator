@@ -24,5 +24,5 @@ Follow these simple steps to run the application on your local machine:
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone [https://github.com/yazanjim11-art/Sign-Language-Translator.git](https://github.com/yazanjim11-art/Sign-Language-Translator.git)
+git clone https://github.com/yazanjim11-art/Sign-Language-Translator.git
 cd Sign-Language-Translator
