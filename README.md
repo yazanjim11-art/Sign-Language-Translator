@@ -18,7 +18,7 @@ An AI-powered Computer Vision application that detects and translates hand gestu
 
 ---
 
-## ⚙️ How to Run the Project (خطوات التشغيل)
+## ⚙️ How to Run the Project 
 
 Follow these simple steps to run the application on your local machine:
 
